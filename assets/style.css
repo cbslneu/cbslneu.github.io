@@ -1,0 +1,77 @@
+/* Style the page */
+body {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.tree {
+  padding-left: 20px
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Remove default bullets */
+ul, #myUL {
+  list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#myUL {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style each list item */
+li {
+  padding-top: 6px;
+  padding-bottom: 3px;
+}
+
+/* Style the bar chart icons */
+.fa-chart-simple {
+  color: steelblue;
+  margin-right: 9px;
+}
+
+/* Style the heart rate icons */
+.fa-heart-pulse {
+  color: darkred;
+  margin-right: 6px;
+}
+/* Style the folder icons */
+.fa-folder {
+  margin-right: 6px;
+  color: #373c41;
+  cursor: pointer;
+  user-select: none; /* Prevent text selection */
+}
+
+/* Create the caret/arrow with a unicode, and style it */
+.directory::before {
+  color: #373C41;
+  display: inline-block;
+  font-weight: bold;
+}
+
+/* Hide the nested list */
+.nested {
+  display: none;
+}
+
+/* Show the nested list when the user clicks on the caret/arrow (with JS) */
+.active {
+  display: block;
+}
+
+/* Bolds font */
+.font-weight-bold {
+  font-weight: bold;
+}
