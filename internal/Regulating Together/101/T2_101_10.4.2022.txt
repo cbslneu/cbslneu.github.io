@@ -1,0 +1,47 @@
+TaskTime	Task	TaskModifier	PhysioStartTime
+08:19:28	Baseline 1	start	08:18:24
+08:22:28	Baseline 1	stop	08:18:24
+08:31:30	Relaxation	start	08:18:24
+08:34:30	Relaxation	stop	08:18:24
+08:27:55	Baseline 2	start	08:18:24
+08:30:55	Baseline 2	stop	08:18:24
+08:23:55	Breathing	start	08:18:24
+08:26:55	Breathing	stop	08:18:24
+08:35:20	Baseline 3	start	08:18:24
+08:38:20	Baseline 3	stop	08:18:24
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
